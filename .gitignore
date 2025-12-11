@@ -1,0 +1,32 @@
+# Build directories
+build/
+bin/
+*.class
+*.jar
+*.war
+
+# IDE
+.classpath
+.project
+.settings/
+.factorypath
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+node_modules/
+target/
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+.temp/
+
+# Environment
+.env
+.env.local
